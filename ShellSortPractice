@@ -13,7 +13,7 @@ public class Main {
                 for (j = i; j >= gap && arr[j - gap] > temp; j -= gap) {
                     arr[j] = arr[j - gap];
                 }
-                // Put temp (the original arr[i]) in its correct location
+                
                 arr[j] = temp;
             }
         }
