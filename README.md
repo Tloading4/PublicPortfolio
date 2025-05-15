@@ -6,6 +6,8 @@ Travis Pryor
 Computer Science Major at Southern Methodist University 
 
 LINK TO RESUME BELOW
+
+
 [TNP Resume 2025 v2.pdf](https://github.com/user-attachments/files/20235769/TNP.Resume.2025.v2.pdf)
 
 
