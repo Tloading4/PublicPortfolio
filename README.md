@@ -6,10 +6,11 @@ Travis Pryor
 Computer Science Major at Southern Methodist University 
 
 LINK TO RESUME BELOW
-<img width="967" alt="image" src="https://github.com/user-attachments/assets/c9217a52-348e-4d53-b556-cdc9c4616fa7">[TNP Resume 2025 v2.pdf](https://github.com/user-attachments/files/20235769/TNP.Resume.2025.v2.pdf)
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/c9217a52-348e-4d53-b556-cdc9c4616fa7">
+
+[TNP Resume 2025 v2.pdf](https://github.com/user-attachments/files/20235769/TNP.Resume.2025.v2.pdf)z
 
 BST.java Project Output 10/30/2024 (School Project - CS2341 Data Structures)
-
 
 
 
