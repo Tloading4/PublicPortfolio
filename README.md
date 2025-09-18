@@ -7,9 +7,17 @@ Computer Science Major at Southern Methodist University
 
 LINK TO RESUME BELOW
 
+[TNP Resume Fall  2025 v2.pdf](https://github.com/user-attachments/files/22411040/TNP.Resume.Fall.2025.v2.pdf)
 
-[TNP Resume Fall 2025.pdf](https://github.com/user-attachments/files/22127179/TNP.Resume.Fall.2025.pdf)
 
+Graduate Level Studies (Fall 2025)
+
+Check out [Artificial Intelligent Agent Project](https://github.com/Tloading4/CS720Assignment1) for more details.
+
+
+
+
+Undergraduate Level Studies (Fall 2023)
 
 BST.java Project Output 10/30/2024 (School Project - CS2341 Data Structures)
 <img width="967" alt="image" src="https://github.com/user-attachments/assets/c9217a52-348e-4d53-b556-cdc9c4616fa7">
