@@ -1,4 +1,4 @@
-# publicprojects
+# Public Projects
 public projects to build my CS portfolio
 
 Travis Pryor 
@@ -10,14 +10,14 @@ LINK TO RESUME BELOW
 [TNP Resume Fall  2025 v2.pdf](https://github.com/user-attachments/files/22411040/TNP.Resume.Fall.2025.v2.pdf)
 
 
-Graduate Level Studies (Fall 2025)
+# Graduate Level Studies (Fall 2025)
 
 Check out [Artificial Intelligent Agent Project](https://github.com/Tloading4/CS720Assignment1) for more details.
 
 
 
 
-Undergraduate Level Studies (Fall 2023)
+# Undergraduate Level Studies (Fall 2023)
 
 BST.java Project Output 10/30/2024 (School Project - CS2341 Data Structures)
 <img width="967" alt="image" src="https://github.com/user-attachments/assets/c9217a52-348e-4d53-b556-cdc9c4616fa7">
