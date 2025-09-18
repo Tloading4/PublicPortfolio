@@ -12,7 +12,7 @@ LINK TO RESUME BELOW
 
 # Graduate Level Studies (Fall 2025)
 
-Check out [Artificial Intelligent Agent Project](https://github.com/Tloading4/CS720Assignment1) for more details. (CS7320 - Artificial Intelligence)
+Check out [Artificial Intelligent Agent Project #1](https://github.com/Tloading4/CS720Assignment1) for more details. (CS7320 - Artificial Intelligence)
 
 
 
