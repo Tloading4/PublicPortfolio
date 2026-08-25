@@ -1,13 +1,14 @@
 # Public Projects
 public projects to build my CS portfolio
 
-Travis Pryor 
+Travis N. Pryor 
 
-Computer Science Major at Southern Methodist University 
+B.A Computer Science, Minor in Data Science ('26)
+M.S Computer Science ('27)
+at Southern Methodist University 
 
 LINK TO RESUME BELOW
-
-[TNP Resume Fall  2025 v2.pdf](https://github.com/user-attachments/files/22411040/TNP.Resume.Fall.2025.v2.pdf)
+[Travis_Pryor_Resume_Fall2026_GradStudent_v2.pdf](https://github.com/user-attachments/files/31426732/Travis_Pryor_Resume_Fall2026_GradStudent_v2.pdf)
 
 
 # Graduate Level Studies (Fall 2025)
