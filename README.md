@@ -4,7 +4,11 @@ public projects to build my CS portfolio
 Travis N. Pryor 
 
 B.A Computer Science, Minor in Data Science ('26)
+
+
 M.S Computer Science ('27)
+
+
 at Southern Methodist University 
 
 LINK TO RESUME BELOW
