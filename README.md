@@ -8,6 +8,8 @@ M.S Computer Science ('27)
 at Southern Methodist University 
 
 LINK TO RESUME BELOW
+
+
 [Travis_Pryor_Resume_Fall2026_GradStudent_v2.pdf](https://github.com/user-attachments/files/31426732/Travis_Pryor_Resume_Fall2026_GradStudent_v2.pdf)
 
 
